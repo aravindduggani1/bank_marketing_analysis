@@ -140,7 +140,7 @@ sql/02_overall_performance.sql  →  sql/09_debt_analysis.sql
 **Data Analyst**
 - 📧 aravindduggani2@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/duggani-aravind-73b447277)
-- 💻 [GitHub](https://github.com/)
+- 💻 [GitHub](https://github.com/aravindduggani1)
 
 ---
 
