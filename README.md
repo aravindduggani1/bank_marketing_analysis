@@ -85,7 +85,6 @@ bank-marketing-analysis/
 | **MySQL** | Data storage, querying, and analysis |
 | **MySQL Workbench** | SQL query execution and data exploration |
 | **Microsoft Excel** | Data cleaning and initial inspection |
-| **Power BI** | Dashboard and visualisation |
 | **Microsoft Word** | EDA report documentation |
 
 ---
@@ -121,17 +120,6 @@ USE bank;
 **4. Run queries in order**
 ```
 sql/02_overall_performance.sql  →  sql/09_debt_analysis.sql
-```
-
-**5. Open the dashboard**
-- Open `dashboard/bank_sales_dashboard.pbix` in Power BI Desktop
-- Refresh data source to point to your local MySQL connection
-
----
-
-## 📈 Dashboard Preview
-
-> *Power BI dashboard covering conversion trends, segment performance, and monthly campaign analysis — see `/dashboard` folder*
 
 ---
 
